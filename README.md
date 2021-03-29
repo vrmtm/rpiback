@@ -1,12 +1,7 @@
 # rpiback
-Change path:
-
-SUBDIR=rpiBack
-
+Change path:  
+SUBDIR=rpiBack  
 DIR=/mnt/nuc/$SUBDIR
 
-
-
-chmod +x rpiBack.sh
-
+chmod +x rpiBack.sh  
 ./rpiBack.sh

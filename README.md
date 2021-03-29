@@ -1,6 +1,5 @@
 # rpiback
 Change path:
-
 SUBDIR=rpiBack
 DIR=/mnt/nuc/$SUBDIR
 
